@@ -1,0 +1,18 @@
+{
+  "ReqType": "MAIN_STS",
+  "ReqUID": "4723",
+  "ResultCode": "00",
+  "Message": "Success",
+  "Records": 1,
+  "OutData": [
+    {
+      "DAUNINAME": "PKC",
+      "DAHOSTUSTS_ATPK": "I",
+      "DAHOSTUSTS_ITPK": "I",
+      "DAHOSTUSTS_CCPK": "I",
+      "KQMIODE_KLIBPKC": "NORM",
+      "KQMIODE_KLIBPK1": "SUSP",
+      "DAPOSTOLT": "R|R|R|R|R|R|R|R|R|R|R"
+    }
+  ]
+}
