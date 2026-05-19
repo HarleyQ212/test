@@ -1,0 +1,18 @@
+{
+  "ReqType": "الحالة_الرئيسية",
+  "ReqUID": "4723",
+  "ResultCode": "00",
+  "Message": "نجاح",
+  "Records": 1,
+  "OutData": [
+    {
+      "DAUNINAME": "PKC",
+      "DAHOSTUSTS_ATPK": "نشط",
+      "DAHOSTUSTS_ITPK": "نشط",
+      "DAHOSTUSTS_CCPK": "نشط",
+      "KQMIODE_KLIBPKC": "طبيعي",
+      "KQMIODE_KLIBPK1": "معلق",
+      "DAPOSTOLT": "R|R|R|R|R|R|R|R|R|R|R"
+    }
+  ]
+}
